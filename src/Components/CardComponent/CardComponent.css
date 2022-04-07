@@ -1,0 +1,35 @@
+.imgcard {
+    object-fit: contain !important;
+}
+
+.productoTitulo {
+    font-size: 1rem !important;
+    padding-left: 8px;
+}
+
+.productoPrecio {
+    font-size: .9rem !important;
+    text-align: center;
+    padding-top: 5px;
+    color: rgb(78, 76, 76);
+
+}
+
+.contenedor {
+    display: flex;
+    justify-content: center;
+    padding-top: 0 !important;
+}
+
+Button {
+    background-color: #139624 !important;
+    color: #ffff !important;
+}
+
+.cardTamano {
+    padding: 0 !important;
+}
+
+
+
+
